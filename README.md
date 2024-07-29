@@ -1,6 +1,9 @@
 <h2 dir="rtl">
 دوره‌ی مقدماتی آموزش برنامه‌نویسی MQL5 برای معامله‌گران بازارهای مالی: چگونه ربات‌ها و دستیارهای هوشمند معاملاتی بسازیم (رایگان، به زبان فارسی)
 </h2>
+<h2 dir="rtl">
+<a href="https://www.aparat.com/playlist/5350806" target="_blank"><p dir="rtl">لینک‌های مشاهده و دانلود ویدیو‌های آموزشی دوره</p></a>
+</h2>
 <h3>
 MQL5 Programming for Traders: How to Build Trading Robots and Expert Advisors (Free, language: Farsi)
 </h3>
@@ -14,9 +17,8 @@ MQL5 Programming for Traders: How to Build Trading Robots and Expert Advisors (F
 
 </p>
 <h2 dir="rtl">
-لینک‌های مشاهده و دانلود ویدیو‌های آموزشی دوره
+<a href="https://www.aparat.com/playlist/5350806" target="_blank"><p dir="rtl">لینک‌های مشاهده و دانلود ویدیو‌های آموزشی دوره</p></a>
 </h2>
-<a href="https://www.aparat.com/playlist/5350806" target="_blank"><p dir="rtl">مشاهده و دانلود ویدیوهای آموزش از آپارات</p></a>
 <h2 dir="rtl">
 سرفصل‌های دوره: آنچه در این دوره می‌آموزید
 </h2>
